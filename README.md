@@ -1,0 +1,2 @@
+# GloccoinPro.sol
+Gloccoin PRO 
